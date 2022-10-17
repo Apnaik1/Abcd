@@ -20,7 +20,7 @@ System.out.println("push");
 public void pull()
 {
 System.out.println("Github pull");	
-System.out.println("Github pish");
+System.out.println("Github push");
 }
 
 

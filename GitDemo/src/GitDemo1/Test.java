@@ -17,6 +17,13 @@ public void push()
 System.out.println("push");
 }
 
+public void pull()
+{
+System.out.println("Github pull");	
 
-	
+}
+
+
+
+
 }

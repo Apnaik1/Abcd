@@ -12,7 +12,10 @@ public void git()
 System.out.println("GitHub started");	
 }
 
-
+public void push()
+{
+system.out.println("push");
+}
 
 
 	

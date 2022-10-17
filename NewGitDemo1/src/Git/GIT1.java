@@ -11,7 +11,15 @@ public void newgit()
 {
 System.out.println("git trial");	
 }
+
+public void push()
+{
+System.out.println("new push");
+}	
+	
+	
 	
 	
 	
 }
+

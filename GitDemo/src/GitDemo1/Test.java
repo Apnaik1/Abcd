@@ -33,7 +33,10 @@ public void m2()
 System.out.println("m2");	
 }
 
-
+public void pushm3()
+{
+System.out.println("pushm3");	
+}
 
 
 

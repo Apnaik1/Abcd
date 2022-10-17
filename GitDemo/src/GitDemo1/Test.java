@@ -23,10 +23,21 @@ System.out.println("Github pull");
 System.out.println("Github push");
 }
 
-public void p1()
+public void p2()
 {
 System.out.println("Abcd");
 }
 
+public void m2()
+{
+System.out.println("m2");	
+}
+
+
+
+
 
 }
+
+
+

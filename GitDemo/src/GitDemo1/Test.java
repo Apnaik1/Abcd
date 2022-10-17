@@ -14,7 +14,7 @@ System.out.println("GitHub started");
 
 public void push()
 {
-system.out.println("push");
+System.out.println("push");
 }
 
 
